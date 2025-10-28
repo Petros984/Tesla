@@ -1,0 +1,64 @@
+header{
+    height: 700px;
+    background-color: brown;
+    background-image:url(tesla_model_3_9.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-left: 750px;
+    padding-top: 150px;
+}
+
+
+main{
+    height: 2100px;
+    
+}
+
+.left{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background-color: rgb(255, 255, 255);
+   
+}
+    
+
+
+.right{
+    width: 50%;
+    height: 100%;
+    float: right;
+    background-color: rgb(97, 97, 97);
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+footer{
+    height: 300px;
+    background-color: rgb(31, 31, 31);
+    padding-right: 800px;
+    
+}
+
+.f_l{
+    float: left;
+    width: 30%;
+}
+
+.f_r{
+    float: right;
+    width: 70%;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.TeslaY{
+    padding-right: 20px;
+
+}
+
+.TeslaS{
+    padding-right: 20px;
+
+}
